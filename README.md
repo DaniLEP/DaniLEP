@@ -1,6 +1,6 @@
 # 👨‍💻 DaniLEP
 
-**`Desenvolvedor FullStack Jr`**
+**`Desenvolvedor FullStack Junior`**
 
 Olá! Sou Danilo Santos, Desenvolvedor Full-Stack Jr, apaixonado por criar interfaces elegantes, funcionais e centradas no usuário. Minha jornada no desenvolvimento começou com uma curiosidade em desvendar o funcionamento da web, e essa paixão cresceu ao longo do tempo, impulsionando minha dedicação à construção de experiências digitais acessíveis, intuitivas e de alta performance..
 
