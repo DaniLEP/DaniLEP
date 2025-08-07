@@ -8,7 +8,7 @@ Olá! Sou Danilo Santos, Desenvolvedor Full-Stack Jr, apaixonado por criar inter
 
 ### 🤖 Linguagens e Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=arch,figma,html,css,js,tailwindcss,react,vite,mysql,docker,vscode,angular,python,next,nodejs,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch,figma,html,css,js,ts,tailwindcss,react,vite,mysql,docker,vscode,angular,python,next,nodejs,firebase)](https://skillicons.dev)
 
 <br/>
 <br/>
