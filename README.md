@@ -1,19 +1,18 @@
 # 👨‍💻 DaniLEP
 
-**`Desenvolvedor FullStack Junior`**
+**`Fullstack Junior Developer`**
 
-Olá! Sou Danilo Santos, Desenvolvedor Full-Stack Jr, apaixonado por criar interfaces elegantes, funcionais e centradas no usuário. Minha jornada no desenvolvimento começou com uma curiosidade em desvendar o funcionamento da web, e essa paixão cresceu ao longo do tempo, impulsionando minha dedicação à construção de experiências digitais acessíveis, intuitivas e de alta performance..
-
+Hello! I’m Danilo Santos, a Junior Full-Stack Developer passionate about creating elegant, functional, and user-centered interfaces. My journey in development began with a curiosity to understand how the web works, and this passion has grown over time, driving my dedication to building accessible, intuitive, and high-performance digital experiences.
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=arch,figma,html,css,js,ts,tailwindcss,react,vite,mysql,docker,vscode,angular,python,next,nodejs,firebase)](https://skillicons.dev)
 
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
   <img 
