@@ -1,33 +1,56 @@
+
+<div align="center">
+
 # 👨‍💻 DaniLEP
 
-**`Fullstack Junior Developer`**
+### Full-Stack Junior Developer
 
-Hello! I’m Danilo Santos, a Junior Full-Stack Developer passionate about creating elegant, functional, and user-centered interfaces. My journey in development began with a curiosity to understand how the web works, and this passion has grown over time, driving my dedication to building accessible, intuitive, and high-performance digital experiences.
+Desenvolvedor apaixonado por tecnologia e criação de soluções digitais.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel)](https://portfolio-danilo-manzoli.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/danilo-santos-manzoli-2961ba212/)
+
+</div>
+
 ---
 
-### 🤖 Languages and Technologies
+### 🚀 About Me
 
-[![My Skills](https://skillicons.dev/icons?i=arch,figma,html,css,js,ts,tailwindcss,react,vite,mysql,cypress,docker,vscode,angular,python,next,nodejs,firebase)](https://skillicons.dev)
+Hello! I'm Danilo Santos Manzoli, a Junior Full-Stack Developer passionate about technology and software development.
 
-<br/>
-<br/>
+I'm constantly learning and improving my skills, focusing on building modern, functional and user-friendly applications.
 
-### 📊 Statistics
+- 💻 Interested in Full-Stack Development.
+- 📚 Always learning new technologies.
+- 🎯 Focused on improving my programming skills.
+- 🚀 Building projects to develop my experience.
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=DaniLEP&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+---
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniLEP&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+### 🛠️ Languages and Technologies
 
-</p>
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=arch,figma,html,css,js,ts,tailwind,react,vite,mysql,docker,vscode,angular,python,nextjs,nodejs,firebase&perline=9)](https://skillicons.dev)
+
+</div>
+
+---
+
+### 📂 Featured Projects
+
+Take a look at my repositories to follow my progress and explore my projects.
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-DaniLEP-181717?style=for-the-badge&logo=github)](https://github.com/DaniLEP)
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ Thanks for visiting my profile!
+
+</div>
