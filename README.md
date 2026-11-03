@@ -3,12 +3,12 @@
 
 # 🧪 DaniLEP
 
-### QA Analyst | Software Quality
+### QA Analyst | Manual Testing & Test Automation
 
-Passionate about software quality, testing and delivering reliable digital experiences.
+Ensuring software quality through testing, automation and continuous improvement.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel)](https://portfolio-danilo-manzoli.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/danilo-santos-manzoli-2961ba212/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel)](https://portfolio-danilo-manzoli.vercel.app/)
 
 </div>
 
@@ -18,15 +18,18 @@ Passionate about software quality, testing and delivering reliable digital exper
 
 Hello! I'm Danilo Santos Manzoli, a QA Analyst passionate about Software Quality and technology.
 
-I work with Software Quality Assurance, focusing on validating functionalities, identifying defects and ensuring that applications meet their requirements.
+I work with Software Quality Assurance, combining manual testing and test automation to help deliver reliable and functional applications.
 
-I'm constantly learning and improving my skills in software testing and quality practices.
+My focus is on understanding requirements, designing test scenarios, identifying defects and validating software behavior.
 
-- 🧪 Software Quality Assurance (QA).
-- 🔍 Test scenarios and test case creation.
-- 🐞 Bug identification and reporting.
-- ✅ Functional testing and validation.
-- 📚 Continuous learning in software testing.
+- 🧪 Manual and Functional Testing.
+- 🤖 Test Automation with Cypress.
+- 🔌 API Testing with Postman.
+- 🗄️ Database Validation using SQL.
+- 🐞 Bug Identification and Reporting.
+- 📋 Test Cases and Test Scenarios.
+
+I'm constantly learning and improving my skills to grow in the Software Quality field.
 
 ---
 
@@ -34,37 +37,38 @@ I'm constantly learning and improving my skills in software testing and quality 
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,python,cypress,postman,mysql,html,css,git,github,vscode,docker&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cypress,postman,mysql,js,ts,python,git,github,vscode,docker&perline=5)](https://skillicons.dev)
 
 </div>
 
 ---
 
-### 🧪 Quality Assurance
+### 🔍 Quality Assurance
 
-- Functional Testing
-- Manual Testing
-- Test Case Design
-- Bug Reporting
-- API Testing
-- Software Validation
+| Area | Skills |
+|---|---|
+| Manual Testing | Functional Testing, Test Cases, Test Scenarios |
+| Automation | Cypress, JavaScript |
+| API Testing | Postman, API Validation |
+| Database | SQL, Data Validation |
+| Quality Practices | Bug Reporting, Requirements Analysis |
 
 ---
 
-### 📂 Projects
+### 📂 Featured Projects
 
-Here you can find projects related to my learning journey, software testing practices and quality assurance.
+Here you can explore my projects, practical exercises and learning journey in Software Quality Assurance.
 
-<div align="center">
+I'm continuously building projects to improve my testing, automation and validation skills.
 
 [![GitHub](https://img.shields.io/badge/GitHub-DaniLEP-181717?style=for-the-badge&logo=github)](https://github.com/DaniLEP)
 
-</div>
-
 ---
 
 <div align="center">
 
-⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile!
+
+**Quality is not just about finding bugs, it's about preventing them.**
 
 </div>
