@@ -1,11 +1,11 @@
 
 <div align="center">
 
-# 👨‍💻 DaniLEP
+# 🧪 DaniLEP
 
-### Full-Stack Junior Developer
+### QA Analyst | Software Quality
 
-Desenvolvedor apaixonado por tecnologia e criação de soluções digitais.
+Passionate about software quality, testing and delivering reliable digital experiences.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel)](https://portfolio-danilo-manzoli.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/danilo-santos-manzoli-2961ba212/)
@@ -14,32 +14,46 @@ Desenvolvedor apaixonado por tecnologia e criação de soluções digitais.
 
 ---
 
-### 🚀 About Me
+### 👨‍💻 About Me
 
-Hello! I'm Danilo Santos Manzoli, a Junior Full-Stack Developer passionate about technology and software development.
+Hello! I'm Danilo Santos Manzoli, a QA Analyst passionate about Software Quality and technology.
 
-I'm constantly learning and improving my skills, focusing on building modern, functional and user-friendly applications.
+I work with Software Quality Assurance, focusing on validating functionalities, identifying defects and ensuring that applications meet their requirements.
 
-- 💻 Interested in Full-Stack Development.
-- 📚 Always learning new technologies.
-- 🎯 Focused on improving my programming skills.
-- 🚀 Building projects to develop my experience.
+I'm constantly learning and improving my skills in software testing and quality practices.
+
+- 🧪 Software Quality Assurance (QA).
+- 🔍 Test scenarios and test case creation.
+- 🐞 Bug identification and reporting.
+- ✅ Functional testing and validation.
+- 📚 Continuous learning in software testing.
 
 ---
 
-### 🛠️ Languages and Technologies
+### 🛠️ Technologies & Tools
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=arch,figma,html,css,js,ts,tailwind,react,vite,mysql,docker,vscode,angular,python,nextjs,nodejs,firebase&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,cypress,postman,mysql,html,css,git,github,vscode,docker&perline=8)](https://skillicons.dev)
 
 </div>
 
 ---
 
-### 📂 Featured Projects
+### 🧪 Quality Assurance
 
-Take a look at my repositories to follow my progress and explore my projects.
+- Functional Testing
+- Manual Testing
+- Test Case Design
+- Bug Reporting
+- API Testing
+- Software Validation
+
+---
+
+### 📂 Projects
+
+Here you can find projects related to my learning journey, software testing practices and quality assurance.
 
 <div align="center">
 
